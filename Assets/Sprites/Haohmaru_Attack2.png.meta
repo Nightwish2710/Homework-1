@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: a3dfe7d7b44aeda44805e0510d15e9e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7662345972750934237
+    second: Haohmaru_Attack2_0
+  - first:
+      213: -8603988865098545507
+    second: Haohmaru_Attack2_1
+  - first:
+      213: 3614011565893362981
+    second: Haohmaru_Attack2_2
+  - first:
+      213: 6878927463223662431
+    second: Haohmaru_Attack2_3
+  - first:
+      213: -8296321490565930362
+    second: Haohmaru_Attack2_4
+  - first:
+      213: -1775064665348965589
+    second: Haohmaru_Attack2_5
+  - first:
+      213: 4863775524744208030
+    second: Haohmaru_Attack2_6
+  - first:
+      213: -8111883620409060354
+    second: Haohmaru_Attack2_7
+  - first:
+      213: 6869840048872586164
+    second: Haohmaru_Attack2_8
+  - first:
+      213: 6719025018424613761
+    second: Haohmaru_Attack2_9
+  - first:
+      213: -9024951457309553674
+    second: Haohmaru_Attack2_10
+  - first:
+      213: 7890973515758845995
+    second: Haohmaru_Attack2_11
+  - first:
+      213: -7797924312591487061
+    second: Haohmaru_Attack2_12
+  - first:
+      213: 4714802278391859262
+    second: Haohmaru_Attack2_13
+  - first:
+      213: 6754847676993618616
+    second: Haohmaru_Attack2_14
+  - first:
+      213: 3096496295341695456
+    second: Haohmaru_Attack2_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Haohmaru_Attack2_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 327
+        width: 114
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0e6fbb01f165a60800000000000000
+      internalID: 7662345972750934237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haohmaru_Attack2_1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 320
+        width: 93
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96826c86bd789880800000000000000
+      internalID: -8603988865098545507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haohmaru_Attack2_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 342
+        width: 100
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5252a3f0f5c872230800000000000000
+      internalID: 3614011565893362981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haohmaru_Attack2_3
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 362
+        width: 85
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f571029e41cd67f50800000000000000
+      internalID: 6878927463223662431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haohmaru_Attack2_4
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 352
+        width: 107
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682e0646f8b8ddc80800000000000000
+      internalID: -8296321490565930362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haohmaru_Attack2_5
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 351
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bf6807714bd57e0800000000000000
+      internalID: -1775064665348965589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haohmaru_Attack2_6
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 341
+        width: 144
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e1e93021a9f7340800000000000000
+      internalID: 4863775524744208030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haohmaru_Attack2_7
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 337
+        width: 147
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3553a63dccc6f80800000000000000
+      internalID: -8111883620409060354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haohmaru_Attack2_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 139
+        width: 154
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb7dc06023965f50800000000000000
+      internalID: 6869840048872586164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haohmaru_Attack2_9
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 143
+        width: 116
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b5924c7a5ce3d50800000000000000
+      internalID: 6719025018424613761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haohmaru_Attack2_10
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 134
+        width: 165
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb8bef377ee0c280800000000000000
+      internalID: -9024951457309553674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haohmaru_Attack2_11
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 130
+        width: 169
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2042daba9e528d60800000000000000
+      internalID: 7890973515758845995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haohmaru_Attack2_12
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 134
+        width: 175
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf2a92272538c390800000000000000
+      internalID: -7797924312591487061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haohmaru_Attack2_13
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 134
+        width: 176
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38cfbd21b75e6140800000000000000
+      internalID: 4714802278391859262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haohmaru_Attack2_14
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 11
+        width: 114
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2c31b6c2a0ebd50800000000000000
+      internalID: 6754847676993618616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haohmaru_Attack2_15
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 10
+        width: 111
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1a72489f6f8fa20800000000000000
+      internalID: 3096496295341695456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
